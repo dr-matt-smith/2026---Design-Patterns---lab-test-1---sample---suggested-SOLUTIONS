@@ -1,0 +1,1 @@
+# 2026---Design-Patterns---lab-test-1---sample---suggested-SOLUTIONS
