@@ -12,4 +12,10 @@ video screencast of Matt creating solutions to Question 3:
 video screencast of Matt creating solutions to Question 4:
 - https://go.screenpal.com/watch/cOQUIynxUfZ
 
+## IDE / Editor
 
+I use the Celbridge workbench editor in these videos
+find it here:
+- https://www.celbridge.org/
+
+but you can use whatever editor you wish to :-) 
